@@ -4,7 +4,7 @@ import UserDetails from "../Details";
 const userInfo = {
   userName: "minhthangtran",
   email: "minhthang3916@gmail.com",
-  phone: "0123426789",
+  phone: "0338810761",
 };
 test("test", () => {
   render(<UserDetails info={userInfo} />);
